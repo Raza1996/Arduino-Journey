@@ -1,3 +1,5 @@
+// A program that makes an LED blinks the number input
+
 int numBlinks;
 int j;
 int redPin= 12;
@@ -11,7 +13,7 @@ void setup() {
   }
 
 
-// A program that makes an LED blinks the number input
+
 
 void loop() {
   // put your main code here, to run repeatedly:
